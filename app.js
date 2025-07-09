@@ -47,7 +47,7 @@ calculator.addEventListener("click", function (event) {
 //     console.log(input);
 //   });
 // });
-function calculateResult(enteredNum) {
+function calculateResult(enteredNum) { 
   let operator;
   let num1, num2;
 
